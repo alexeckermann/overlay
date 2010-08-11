@@ -1,0 +1,13 @@
+h1. jQuery.Overlay
+
+By Alex Eckermann with help from Keith Pitt in its creation.
+
+jQuery.Overlay is a jQuery plugin that allows the use of simple and fully customisable overlays. All the plugin will do is create a new element and place it with a desired position, which can be in relation to another object.
+
+h2. Dependencies
+
+This plugin requires jQuery v1.4.2+ with jQueryUI v1.8+ including the $.position method 
+
+h2. Usage
+
+_Gimme a day and I will have this filled in w/ jUnit as well :)_
